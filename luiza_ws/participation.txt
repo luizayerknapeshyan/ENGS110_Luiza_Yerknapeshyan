@@ -1,0 +1,1 @@
+07/09/2023 During today's class we first recapped binary, decimal and hexadecimal data representation. Then, we learned different boolean logics like AND, OR, XOR, etc. Then we learned aout algorithms and how to construnct flow charts. 
