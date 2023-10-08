@@ -35,3 +35,5 @@ int main() {
 
 	return 0;
 }
+
+//Your program says that numbers <= 0 are power of 2
