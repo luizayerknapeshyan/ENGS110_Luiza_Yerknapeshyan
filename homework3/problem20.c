@@ -22,7 +22,7 @@ int main() {
         ptr[i++] = c;
 
         if (i == capacity) {
-            capacity += max_length;
+            capacity++;
             ptr = (int*)realloc(ptr, capacity * sizeof(int));
             if (ptr == NULL) {
                 printf("Memory reallocation failed.\n");
